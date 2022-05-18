@@ -1,20 +1,4 @@
-Thumbs.db*
-.DS_Store*
-HELP.md
-.gradle
-build/
 target/
-
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
